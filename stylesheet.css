@@ -17,6 +17,9 @@ a {
 	height: 50px;
 	margin: auto;
 }
+#header {
+	margin: auto;
+}
 #footer {
 	margin: auto;
 }
@@ -24,7 +27,7 @@ a {
 	height: 400px;
 	width: 250px;
 	border: 2px solid black;
-	margin: 5px 5px 100px 400px;
+	margin: 5px 5px 100px 800px;
 }
 .left {
 	width: 450px;
