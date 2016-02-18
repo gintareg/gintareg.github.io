@@ -1,11 +1,12 @@
 body div {
 	background-color: #a9dcc5;
 	margin: 5px 300px 5px 300px;
+	padding: 10px 200px 10px 200px;
 }
 a {
 	background-color: #9fbbd6;
-	height: 10px;
-	width: 100px;
+	height: 30px;
+	width: 150px;
 	border: 2px solid black;
 	border-radius: 5px;
 	border-color: #6785e7;
