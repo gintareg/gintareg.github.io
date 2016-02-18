@@ -2,3 +2,10 @@ body div {
 	background-color: #a9dcc5;
 	margin: 5px 200px 200px 5px;
 }
+body div div div{
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	display: inline-block;
+}
