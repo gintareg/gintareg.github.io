@@ -28,12 +28,10 @@ a {
 	width: 250px;
 	border: 2px solid black;
 	margin: 5px 5px 100px 600px;
-	float: right;
 }
 .left {
 	width: 450px;
 	height: 300px;
 	border: 2px solid black;
-	margin-left: 5px;
-	float: left;
+	margin-left: 10px;
 	}
