@@ -1,4 +1,4 @@
-div:first-child {
+body div{
 	background-color: #a9dcc5;
 	margin: 5px 300px 5px 300px;
 	padding: 10px 10px 10px 10px;
@@ -16,4 +16,13 @@ a {
 	width: 800px;
 	height: 50px;
 	margin: auto;
+}
+#footer {
+	margin: auto;
+}
+.right {
+	heigh: 500px;
+	width: 500px;
+	border: 2px solid black;
+	float: right;
 }
