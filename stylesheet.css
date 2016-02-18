@@ -3,9 +3,11 @@ body div {
 	margin: 5px 300px 5px 300px;
 }
 #meniu {
+	background-color: #9fbbd6;
 	height: 50px;
 	width: 100px;
 	border: 2px solid black;
 	border-radius: 5px;
+	border-color: #6785e7;
 	display: inline-block;
 }
