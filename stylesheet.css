@@ -1,7 +1,6 @@
 body div{
 	background-color: #a9dcc5;
 	margin: 5px 300px 5px 300px;
-	padding: 10px 10px 10px 10px;
 	text-align: center;
 }
 a {
@@ -31,6 +30,7 @@ a {
 	width: 550px;
 	border: 2px solid #9369e7;
 	float: right;
+	margin-left: 700px;
 }
 .left {
 	background-color: #c087e9;
