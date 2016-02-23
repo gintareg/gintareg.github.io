@@ -30,7 +30,6 @@ a {
 	height: 400px;
 	width: 550px;
 	border: 2px solid #9369e7;
-	float: right;
 	margin-right: 10px;
 }
 .left {
@@ -43,8 +42,4 @@ a {
 img {
 	width: 300px;
 	height: 400px;
-}
-#box {
-	display: inline-block;
-}
 }
