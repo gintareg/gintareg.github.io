@@ -30,7 +30,7 @@ a {
 	height: 400px;
 	width: 450px;
 	border: 2px solid #9369e7;
-	margin: 20px 20px 20px 20px;
+	margin: auto;
 	float: right;
 }
 #left {
@@ -38,7 +38,7 @@ a {
 	width: 300px;
 	height: 400px;
 	border: 2px solid #9369e7;
-	margin: 20px 20px 20px 20px;
+	margin: auto;
 	}
 img {
 	width: 300px;
