@@ -25,7 +25,7 @@ a {
 #footer {
 	margin: auto;
 }
-.right {
+#right {
 	background-color: #c087e9;
 	height: 400px;
 	width: 550px;
@@ -33,7 +33,7 @@ a {
 	margin: 20px 20px 20px 20px;
 	float: right;
 }
-.left {
+#left {
 	background-color: #c087e9;
 	width: 300px;
 	height: 400px;
