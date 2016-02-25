@@ -1,8 +1,10 @@
 body div{
 	background-color: #a9dcc5;
-	margin: 5px 300px 5px 300px;
+	width: 1000px;
 	padding: 10px 10px 10px 10px;
 	text-align: center;
+	margin-left; auto;
+	margin-right: auto;
 }
 a {
 	background-color: #9fbbd6;
