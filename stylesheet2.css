@@ -33,33 +33,30 @@ a {
 	margin: auto;
 	width: 980px;
 }
-#right {
+#left {
 	background-color: #c087e9;
 	height: 400px;
-	width: 500px;
+	width: 520px;
 	border: 2px solid #09369e7;
-	margin: 20px 20px 20px 20px;
-	float: right;
+	margin: 20px 10px 20px 20px;
+	float: left;
 	display: inline;
 }
 img {
 	background-color: #c087e9;
-	width: 350px;
-	height: 400px;
+	width: 300px;
+	height: 420px;
 	border: 2px solid #9369e7;
 	margin: 20px 10px 20px 20px;
 	display: inline;
 	}
-#left1 {
+#right {
 	background-color: #c087e9;
 	width: 300px;
 	height: 200px;
 	border: 2px solid #9369e7;
-	margin: 20px 20px 20px 40px;
-	}
-img {
-	width: 300px;
-	height: 400px;
+	margin: 10px 20px 20px 620px;
+	
 }
 #name {
 	font-family: Comic Sans MS, cursive, sans-serif;
