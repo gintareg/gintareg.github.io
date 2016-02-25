@@ -27,9 +27,11 @@ a {
 }
 #header {
 	margin: auto;
+	width: 980px;
 }
 #footer {
 	margin: auto;
+	width: 980px;
 }
 #left {
 	background-color: #c087e9;
