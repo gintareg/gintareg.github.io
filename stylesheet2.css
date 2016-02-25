@@ -44,10 +44,10 @@ a {
 }
 img {
 	background-color: #c087e9;
-	width: 300px;
-	height: 420px;
+	width: 350px;
+	height: 350px;
 	border: 2px solid #9369e7;
-	margin: 20px 10px 20px 20px;
+	margin: 20px 10px 20px 10px;
 	display: inline;
 	}
 #right {
