@@ -33,30 +33,20 @@ a {
 	margin: auto;
 	width: 980px;
 }
-#left {
-	background-color: #c087e9;
-	height: 400px;
-	width: 520px;
-	border: 2px solid #09369e7;
-	margin: 20px 10px 20px 20px;
-	float: left;
-	display: inline;
-}
+
 img {
 	background-color: #c087e9;
-	width: 300px;
-	height: 420px;
+	width: 750x;
+	height: 500px;
 	border: 2px solid #9369e7;
-	margin: 20px 10px 20px 20px;
-	display: inline;
+	margin: 20px 20px 20px 20px;
 	}
 #right {
 	background-color: #c087e9;
-	width: 300px;
-	height: 200px;
+	width: 750px;
+	height: 300px;
 	border: 2px solid #9369e7;
-	margin: 10px 20px 20px 620px;
-	
+	margin: 20px 20px 20px 20px;
 }
 #name {
 	font-family: Comic Sans MS, cursive, sans-serif;
