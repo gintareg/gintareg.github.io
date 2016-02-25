@@ -36,17 +36,17 @@ a {
 
 img {
 	background-color: #c087e9;
-	width: 750x;
-	height: 500px;
+	width: 650x;
+	height: 300px;
 	border: 2px solid #9369e7;
 	margin: 20px 20px 20px 20px;
 	}
 #right {
 	background-color: #c087e9;
-	width: 750px;
-	height: 300px;
+	width: 600px;
+	height: 150px;
 	border: 2px solid #9369e7;
-	margin: 20px 20px 20px 20px;
+	margin: auto;
 }
 #name {
 	font-family: Comic Sans MS, cursive, sans-serif;
