@@ -42,7 +42,7 @@ a {
 	float: left;
 	display: inline;
 }
-#firstimg {
+img {
 	background-color: #c087e9;
 	width: 350px;
 	height: 350px;
@@ -61,6 +61,7 @@ a {
 #name {
 	font-family: Comic Sans MS, cursive, sans-serif;
 	font-size: 30px;
+}
 #specialimg {
 	width: 90;
 	height: 70;
