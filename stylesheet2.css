@@ -63,6 +63,7 @@ a {
 	font-size: 30px;
 }
 #specialimg {
-	width: 90px;
-	height: 70px;
+	width: 120px;
+	height: 100px;
+	float: right;
 }
